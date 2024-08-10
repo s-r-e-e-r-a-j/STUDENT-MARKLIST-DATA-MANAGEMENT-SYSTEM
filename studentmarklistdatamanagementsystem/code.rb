@@ -57,9 +57,9 @@ def studentinfo()
       puts"\n"
   end
   puts"\n"
-  puts"student data is stored in path #{path} you can read it by applying read instead of write"
+  puts"students data is stored in path #{path} you can read it by applying read instead of write"
   puts"\n"
-  puts"Enter Once for run again and write read for read your entered student data from stored file"
+  puts"Enter once for run again and Enter read for read your entered students data from stored file"
   puts"\n"
   change=gets.chomp();
    puts"\n"
